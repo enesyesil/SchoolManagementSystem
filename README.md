@@ -17,7 +17,7 @@ Student.java: The Student class contains information about individual students, 
 Teacher.java: This class represents teachers and staff members of the school, including their contact information and roles.
 
 
-##Usage
+## Usage
 
 - To use this School Management System, follow these steps:
 
